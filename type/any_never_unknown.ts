@@ -26,3 +26,5 @@ declare let v2: void;
 // v1 = v2; // X 类型 void 不能赋值给类型 never
 
 v2 = v1;
+
+
